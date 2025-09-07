@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+Medico.AI.egg-info/PKG-INFO
+Medico.AI.egg-info/SOURCES.txt
+Medico.AI.egg-info/dependency_links.txt
+Medico.AI.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
+src/prompt.py
